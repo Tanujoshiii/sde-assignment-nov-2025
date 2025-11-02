@@ -1,0 +1,11 @@
+{
+  "name": "sde-assignment-nov-2025",
+  "version": "1.0.0",
+  "description": "SDE Assignment - Merge Discontinuous Time Ranges",
+  "main": "mergeTimeRanges.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Tanuj Joshi",
+  "license": "ISC"
+}
